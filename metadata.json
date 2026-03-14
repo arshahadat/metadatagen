@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Metadata Generator",
+  "description": "An AI-powered tool to analyze images and generate SEO-friendly alt text, titles, and tags.",
+  "requestFramePermissions": []
+}
